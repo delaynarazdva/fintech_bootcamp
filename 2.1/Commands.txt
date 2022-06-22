@@ -1,0 +1,63 @@
+pwd     >>print working directory
+mkdir   >> make a directory
+rmdir   >> remove a directory
+cd      >> change directory
+touch   >> create an empty file
+echo    >> write into a file
+cat     >> output to console
+code    >> open it in VS Code
+rm      >> remove
+mv      >> move , also rename
+cp      >> copy
+ls      >> list
+wc      >> word count
+sort    >> sort it in order
+clear   >> clear the console
+grep    >> find a text within
+head    >> show top portions
+tail    >> show bottom portions
+diff    >> difference in files
+history >> see all the command entered
+git init    >> initialize git
+git status  >> check files added
+git add     >> add to staging area
+git commit  >> staging to local
+git show
+git remote
+git push
+git clone
+explorer  .   >>  open working folder in windows
+open  .       >>  open working folder in mac
+exit    >>  exits the console (edited) 
+white_check_mark
+eyes
+raised_hands
+
+
+
+
+
+Pinned by Yohan Hwang
+10:29
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+vi a.txt # open vi text editor
+    i for insert
+    esc will take you to the bottom
+        to save and exit :wq! and enter
+        not save and exit :q! and enter
+                        i  (insert mode, insert before cursor)
+    esc (command mode)
+    ZZ (save and exit)
+    :wq (save and exit)
+    :w (save without exiting)
+    :q! (exit without saving)
+    a (insert after cursor)
+    o (insert a new line below)
+    O (insert a new line above)
+    x (delete one char)
+    dw (delete one word)
+    dd (delete the file)
+    D (delete the rest of the line)
+    u (undo the last action)
+    h or left arrow (backward one char)
+    l or right arrow (forward one char)
